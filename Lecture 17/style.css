@@ -1,0 +1,33 @@
+/* Element Selector */
+div{
+          color: rgb(0, 0, 0);
+          background-color: bisque;
+          text-align:right ;
+}
+
+/* Class Selector */
+.red{
+          text-align: center;
+          background-color: red;
+}
+
+/* Id Selectors */
+#purple{
+          font-style: italic;
+          text-align: center;
+          color: blueviolet;
+          background-color: rgb(240, 215, 215);
+}
+
+/* Child Selectors */
+div > p{
+          font-weight: bold;
+          font-style: italic;
+          text-align: left;
+          color: rgb(255, 0, 0);
+}
+
+/* Group Selector */
+div, p, a {
+          border: solid black;
+      }
