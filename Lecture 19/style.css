@@ -1,0 +1,20 @@
+h1{
+          background-color: antiquewhite;
+          padding: 34px;
+          margin: 0px;
+          border: 3px solid black ;
+          color: #d2902b;
+          font-family: 'Baloo Bhaijaan 2', sans-serif;}
+p{
+          margin: 0px;
+          padding: 64px;
+          border: solid grey ;
+          border-style: dotted;
+          background-color: aquamarine;
+          font-family: 'Baloo Bhaijaan 2', sans-serif;
+}
+h2{
+          text-decoration-thickness: 43px;
+          text-align: center;
+          font-family: 'Baloo Bhaijaan 2', sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
